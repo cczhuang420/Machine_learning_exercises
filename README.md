@@ -3,4 +3,7 @@
 `2. conda activate ./env`
 
 # Check the env list
-`run conda env list`
+`conda env list`
+
+# Check all the tools 
+`conda list`
